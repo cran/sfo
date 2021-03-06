@@ -44,7 +44,6 @@ d %>%
   as.data.frame() %>%
 plot_ly(x = ~ date, 
         y = ~ landing_count,
-        # name = 'Food and Tobacco', 
         type = 'scatter', 
         mode = 'none', 
         stackgroup = 'one', 
