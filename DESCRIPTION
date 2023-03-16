@@ -1,7 +1,7 @@
 Package: sfo
 Type: Package
 Title: San Francisco International Airport Monthly Air Passengers
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: person(given = "Rami", 
                     family ="Krispin", 
                     email = "rami.krispin@gmail.com",
@@ -15,10 +15,10 @@ LazyData: true
 Depends: R (>= 2.10)
 Suggests: dplyr (>= 1.0.0), magrittr (>= 1.5), plotly (>= 4.9.2.1),
         knitr, rmarkdown, tidyr (>= 1.0.0)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2021-03-06 20:36:55 UTC; ramikrispin
+Packaged: 2023-03-16 17:25:46 UTC; ramikrispin
 Author: Rami Krispin [aut, cre]
 Repository: CRAN
-Date/Publication: 2021-03-06 20:50:02 UTC
+Date/Publication: 2023-03-16 18:30:02 UTC
